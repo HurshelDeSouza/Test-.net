@@ -1,0 +1,5 @@
+C:\Users\ALIENWARE\Desktop\Prueba .net\TaskManagerApi\TaskManagerApi.Tests\obj\Debug\net8.0\TaskManagerApi.Tests.csproj.AssemblyReference.cache
+C:\Users\ALIENWARE\Desktop\Prueba .net\TaskManagerApi\TaskManagerApi.Tests\obj\Debug\net8.0\TaskManagerApi.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALIENWARE\Desktop\Prueba .net\TaskManagerApi\TaskManagerApi.Tests\obj\Debug\net8.0\TaskManagerApi.Tests.AssemblyInfoInputs.cache
+C:\Users\ALIENWARE\Desktop\Prueba .net\TaskManagerApi\TaskManagerApi.Tests\obj\Debug\net8.0\TaskManagerApi.Tests.AssemblyInfo.cs
+C:\Users\ALIENWARE\Desktop\Prueba .net\TaskManagerApi\TaskManagerApi.Tests\obj\Debug\net8.0\TaskManagerApi.Tests.csproj.CoreCompileInputs.cache
