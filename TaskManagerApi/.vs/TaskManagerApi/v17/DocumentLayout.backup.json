@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ALIENWARE\\Desktop\\Prueba .net\\TaskManagerApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E4DFD094-D815-46AF-B70E-790D7821582C}|TaskManagerApi\\TaskManagerApi.csproj|c:\\users\\alienware\\desktop\\prueba .net\\taskmanagerapi\\taskmanagerapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DFD094-D815-46AF-B70E-790D7821582C}|TaskManagerApi\\TaskManagerApi.csproj|solutionrelative:taskmanagerapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DFD094-D815-46AF-B70E-790D7821582C}|TaskManagerApi\\TaskManagerApi.csproj|c:\\users\\alienware\\desktop\\prueba .net\\taskmanagerapi\\taskmanagerapi\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DFD094-D815-46AF-B70E-790D7821582C}|TaskManagerApi\\TaskManagerApi.csproj|solutionrelative:taskmanagerapi\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4DFD094-D815-46AF-B70E-790D7821582C}|TaskManagerApi\\TaskManagerApi.csproj|c:\\users\\alienware\\desktop\\prueba .net\\taskmanagerapi\\taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4DFD094-D815-46AF-B70E-790D7821582C}|TaskManagerApi\\TaskManagerApi.csproj|solutionrelative:taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -55,6 +63,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\ALIENWARE\\Desktop\\Prueba .net\\TaskManagerApi\\TaskManagerApi\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskManagerApi\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\ALIENWARE\\Desktop\\Prueba .net\\TaskManagerApi\\TaskManagerApi\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskManagerApi\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T02:34:59.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\ALIENWARE\\Desktop\\Prueba .net\\TaskManagerApi\\TaskManagerApi\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskManagerApi\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\ALIENWARE\\Desktop\\Prueba .net\\TaskManagerApi\\TaskManagerApi\\Models\\TaskItem.cs",
+              "RelativeToolTip": "TaskManagerApi\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T02:34:51.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ALIENWARE\\Desktop\\Prueba .net\\TaskManagerApi\\TaskManagerApi\\Program.cs",
               "RelativeDocumentMoniker": "TaskManagerApi\\Program.cs",
